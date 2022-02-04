@@ -1,0 +1,23 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/minaa/Desktop/uni-term3/logiclab_5/logiclab7_delay/tb_adder_subtractor_4bit_isim_beh.exe -prj C:/Users/minaa/Desktop/uni-term3/logiclab_5/logiclab7_delay/tb_adder_subtractor_4bit_beh.prj work.tb_adder_subtractor_4bit work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/minaa/Desktop/uni-term3/logiclab_5/logiclab7_delay/full_adder.v" into library work
+Analyzing Verilog file "C:/Users/minaa/Desktop/uni-term3/logiclab_5/logiclab7_delay/add_sub.v" into library work
+Analyzing Verilog file "C:/Users/minaa/Desktop/uni-term3/logiclab_5/logiclab7_delay/adder_subtractor_4bit.v" into library work
+Analyzing Verilog file "C:/Users/minaa/Desktop/uni-term3/logiclab_5/logiclab7_delay/tb_adder_subtractor_4bit.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module full_adder
+Compiling module add_sub
+Compiling module adder_subtractor_4bit
+Compiling module tb_adder_subtractor_4bit
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 Verilog Units
+Built simulation executable C:/Users/minaa/Desktop/uni-term3/logiclab_5/logiclab7_delay/tb_adder_subtractor_4bit_isim_beh.exe
+Fuse Memory Usage: 26516 KB
+Fuse CPU Usage: 640 ms

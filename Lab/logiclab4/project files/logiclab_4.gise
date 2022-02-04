@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="logiclab_4.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="paritiy3_gen.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="paritiy3_gen.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="paritiy3_gen.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="paritiy3_gen.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="paritiy3_gen.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="paritiy3_gen.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="paritiy3_gen.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="paritiy3_gen.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="paritiy3_gen_envsettings.html"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="paritiy3_gen_sop.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="paritiy3_gen_sop.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="paritiy3_gen_sop.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="paritiy3_gen_sop.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="paritiy3_gen_sop.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="paritiy3_gen_sop.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="paritiy3_gen_sop.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="paritiy3_gen_sop.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="paritiy3_gen_sop_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="paritiy3_gen_sop_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="paritiy3_gen_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="paritiy3_gen_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_paritiy3_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="tb_paritiy3_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_paritiy3_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1604388574" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1604388574">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388864" xil_pn:in_ck="1715181253034048995" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1604388864">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="paritiy3_gen.v"/>
+      <outfile xil_pn:name="paritiy3_gen_sop.v"/>
+      <outfile xil_pn:name="tb_paritiy3.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388662" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-2704486502849211615" xil_pn:start_ts="1604388662">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388662" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-2903105539598214875" xil_pn:start_ts="1604388662">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388662" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="5499473194661069333" xil_pn:start_ts="1604388662">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388864" xil_pn:in_ck="1715181253034048995" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1604388864">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="paritiy3_gen.v"/>
+      <outfile xil_pn:name="paritiy3_gen_sop.v"/>
+      <outfile xil_pn:name="tb_paritiy3.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388867" xil_pn:in_ck="1715181253034048995" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-9052602968016109532" xil_pn:start_ts="1604388864">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="InputChanged"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388668" xil_pn:in_ck="3761889619617345113" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-7787203980406379001" xil_pn:start_ts="1604388668">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForced"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="tb_paritiy3_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1604387808" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1604387808">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388149" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-3458122509150647415" xil_pn:start_ts="1604388149">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388149" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="5499473194661069333" xil_pn:start_ts="1604388149">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388149" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1604388149">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388149" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="4851622355701995525" xil_pn:start_ts="1604388149">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388149" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="8912443121649815033" xil_pn:start_ts="1604388149">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388149" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-3944509567096068641" xil_pn:start_ts="1604388149">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604388946" xil_pn:in_ck="7269572234159162581" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-7226813403934455579" xil_pn:start_ts="1604388928">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="paritiy3_gen.lso"/>
+      <outfile xil_pn:name="paritiy3_gen.ngc"/>
+      <outfile xil_pn:name="paritiy3_gen.ngr"/>
+      <outfile xil_pn:name="paritiy3_gen.prj"/>
+      <outfile xil_pn:name="paritiy3_gen.stx"/>
+      <outfile xil_pn:name="paritiy3_gen.syr"/>
+      <outfile xil_pn:name="paritiy3_gen.xst"/>
+      <outfile xil_pn:name="paritiy3_gen_sop.prj"/>
+      <outfile xil_pn:name="paritiy3_gen_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

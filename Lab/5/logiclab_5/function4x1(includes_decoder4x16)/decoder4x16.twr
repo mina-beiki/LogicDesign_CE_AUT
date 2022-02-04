@@ -1,0 +1,132 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 3
+-n 3 -fastpaths -xml decoder4x16.twx decoder4x16.ncd -o decoder4x16.twr
+decoder4x16.pcf
+
+Design file:              decoder4x16.ncd
+Physical constraint file: decoder4x16.pcf
+Device,package,speed:     xc7a100t,csg324,C,-3 (PRODUCTION 1.10 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+en             |dout<0>        |    6.090|
+en             |dout<1>        |    5.972|
+en             |dout<2>        |    5.830|
+en             |dout<3>        |    5.804|
+en             |dout<4>        |    5.865|
+en             |dout<5>        |    5.750|
+en             |dout<6>        |    5.466|
+en             |dout<7>        |    5.934|
+en             |dout<8>        |    5.776|
+en             |dout<9>        |    5.518|
+en             |dout<10>       |    5.239|
+en             |dout<11>       |    5.537|
+en             |dout<12>       |    5.391|
+en             |dout<13>       |    5.511|
+en             |dout<14>       |    5.256|
+en             |dout<15>       |    5.272|
+in<0>          |dout<0>        |    5.757|
+in<0>          |dout<1>        |    5.597|
+in<0>          |dout<2>        |    5.463|
+in<0>          |dout<3>        |    5.464|
+in<0>          |dout<4>        |    5.531|
+in<0>          |dout<5>        |    5.755|
+in<0>          |dout<6>        |    5.463|
+in<0>          |dout<7>        |    5.592|
+in<0>          |dout<8>        |    6.519|
+in<0>          |dout<9>        |    6.428|
+in<0>          |dout<10>       |    6.157|
+in<0>          |dout<11>       |    6.294|
+in<0>          |dout<12>       |    6.425|
+in<0>          |dout<13>       |    6.545|
+in<0>          |dout<14>       |    6.298|
+in<0>          |dout<15>       |    6.314|
+in<1>          |dout<0>        |    5.848|
+in<1>          |dout<1>        |    5.466|
+in<1>          |dout<2>        |    5.318|
+in<1>          |dout<3>        |    5.564|
+in<1>          |dout<4>        |    5.619|
+in<1>          |dout<5>        |    5.833|
+in<1>          |dout<6>        |    5.557|
+in<1>          |dout<7>        |    5.692|
+in<1>          |dout<8>        |    5.849|
+in<1>          |dout<9>        |    5.930|
+in<1>          |dout<10>       |    5.645|
+in<1>          |dout<11>       |    5.616|
+in<1>          |dout<12>       |    6.230|
+in<1>          |dout<13>       |    6.347|
+in<1>          |dout<14>       |    6.086|
+in<1>          |dout<15>       |    6.105|
+in<2>          |dout<0>        |    5.955|
+in<2>          |dout<1>        |    5.450|
+in<2>          |dout<2>        |    5.300|
+in<2>          |dout<3>        |    5.678|
+in<2>          |dout<4>        |    5.729|
+in<2>          |dout<5>        |    6.049|
+in<2>          |dout<6>        |    5.769|
+in<2>          |dout<7>        |    5.806|
+in<2>          |dout<8>        |    6.352|
+in<2>          |dout<9>        |    6.276|
+in<2>          |dout<10>       |    6.001|
+in<2>          |dout<11>       |    6.123|
+in<2>          |dout<12>       |    6.385|
+in<2>          |dout<13>       |    6.490|
+in<2>          |dout<14>       |    6.239|
+in<2>          |dout<15>       |    6.270|
+in<3>          |dout<0>        |    5.851|
+in<3>          |dout<1>        |    5.963|
+in<3>          |dout<2>        |    5.825|
+in<3>          |dout<3>        |    5.559|
+in<3>          |dout<4>        |    5.626|
+in<3>          |dout<5>        |    5.608|
+in<3>          |dout<6>        |    5.318|
+in<3>          |dout<7>        |    5.688|
+in<3>          |dout<8>        |    5.712|
+in<3>          |dout<9>        |    5.633|
+in<3>          |dout<10>       |    5.346|
+in<3>          |dout<11>       |    5.471|
+in<3>          |dout<12>       |    5.736|
+in<3>          |dout<13>       |    5.844|
+in<3>          |dout<14>       |    5.581|
+in<3>          |dout<15>       |    5.609|
+---------------+---------------+---------+
+
+
+Analysis completed Tue Nov 10 18:56:03 2020 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 4951 MB
+
+
+

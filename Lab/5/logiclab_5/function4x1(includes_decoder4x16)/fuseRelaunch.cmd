@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/minaa/Desktop/uni-term3/logiclab_5/decoder4x16_3/tb_decoder2x4_isim_beh.exe" -prj "C:/Users/minaa/Desktop/uni-term3/logiclab_5/decoder4x16_3/tb_decoder2x4_beh.prj" "work.tb_decoder2x4" "work.glbl" 

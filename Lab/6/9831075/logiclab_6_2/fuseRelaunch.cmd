@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/minaa/Desktop/uni-term3/logiclab_5/logiclab_6_2/tb_comparator8_isim_beh.exe" -prj "C:/Users/minaa/Desktop/uni-term3/logiclab_5/logiclab_6_2/tb_comparator8_beh.prj" "work.tb_comparator8" "work.glbl" 

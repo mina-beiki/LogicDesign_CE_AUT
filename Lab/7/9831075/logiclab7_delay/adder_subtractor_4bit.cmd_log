@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/minaa/Desktop/uni-term3/logiclab_5/logiclab7_delay/adder_subtractor_4bit.xst" -ofn "C:/Users/minaa/Desktop/uni-term3/logiclab_5/logiclab7_delay/adder_subtractor_4bit.syr" 

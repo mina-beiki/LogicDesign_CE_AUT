@@ -1,0 +1,17 @@
+xst -intstyle ise -ifn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.xst" -ofn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.syr" 
+xst -intstyle ise -ifn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.xst" -ofn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.syr" 
+xst -intstyle ise -ifn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.xst" -ofn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.syr" 
+xst -intstyle ise -ifn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.xst" -ofn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.syr" 
+xst -intstyle ise -ifn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.xst" -ofn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.syr" 
+xst -intstyle ise -ifn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.xst" -ofn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "function4x1.ngc" function4x1.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o function4x1_map.ncd function4x1.ngd function4x1.pcf 
+par -w -intstyle ise -ol high -mt off function4x1_map.ncd function4x1.ncd function4x1.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml function4x1.twx function4x1.ncd -o function4x1.twr function4x1.pcf 
+xst -intstyle ise -ifn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.xst" -ofn "C:/Users/Leili/Desktop/az manteghi/session4/decoder4x16_3/function4x1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "function4x1.ngc" function4x1.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o function4x1_map.ncd function4x1.ngd function4x1.pcf 
+par -w -intstyle ise -ol high -mt off function4x1_map.ncd function4x1.ncd function4x1.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml function4x1.twx function4x1.ncd -o function4x1.twr function4x1.pcf 
+xst -intstyle ise -ifn "C:/Users/minaa/Desktop/uni-term3/decoder4x16_3/function4x1.xst" -ofn "C:/Users/minaa/Desktop/uni-term3/decoder4x16_3/function4x1.syr" 
+xst -intstyle ise -ifn "C:/Users/minaa/Desktop/uni-term3/logiclab_5/decoder4x16_3/function4x1.xst" -ofn "C:/Users/minaa/Desktop/uni-term3/logiclab_5/decoder4x16_3/function4x1.syr" 

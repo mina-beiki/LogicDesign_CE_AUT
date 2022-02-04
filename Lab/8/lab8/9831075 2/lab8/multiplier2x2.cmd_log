@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/minaa/Desktop/uni-term3/logiclab_5/lab8/multiplier2x2.xst" -ofn "C:/Users/minaa/Desktop/uni-term3/logiclab_5/lab8/multiplier2x2.syr" 
+xst -intstyle ise -ifn "C:/Users/minaa/Desktop/uni-term3/logiclab_5/lab8/multiplier2x2.xst" -ofn "C:/Users/minaa/Desktop/uni-term3/logiclab_5/lab8/multiplier2x2.syr" 
+xst -intstyle ise -ifn "C:/Users/minaa/Desktop/uni-term3/logiclab_5/lab8/multiplier2x2.xst" -ofn "C:/Users/minaa/Desktop/uni-term3/logiclab_5/lab8/multiplier2x2.syr" 

@@ -1,0 +1,3 @@
+verilog work "multiplier2x2.v"
+verilog work "multiplexer4x4.v"
+verilog work "alu.v"

@@ -1,0 +1,5 @@
+verilog isim_temp "multiplier2x2.v"
+verilog isim_temp "multiplexer4x4.v"
+verilog isim_temp "alu.v"
+verilog isim_temp "tb_alu.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
